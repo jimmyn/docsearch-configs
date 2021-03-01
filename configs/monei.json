@@ -1,10 +1,10 @@
 {
   "index_name": "monei",
   "start_urls": [
-    "https://docs.monei.net/docs/"
+    "https://docs.monei.com/docs/"
   ],
   "sitemap_urls": [
-    "https://docs.monei.net/sitemap.xml"
+    "https://docs.monei.com/sitemap.xml"
   ],
   "sitemap_alternate_links": true,
   "stop_urls": [],
